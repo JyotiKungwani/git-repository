@@ -1,1 +1,2 @@
-My first file inside git working directory
+My first file inside git working directory.
+Modifying first file by adding another line.
