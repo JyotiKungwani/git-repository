@@ -1,0 +1,1 @@
+My first file inside git working directory
